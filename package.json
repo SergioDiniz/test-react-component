@@ -1,8 +1,8 @@
 {
-  "name": "core-react",
+  "name": "test-react-component",
   "version": "0.1.1",
   "main": "src/node_modules/index.js",
-  "private": true,
+  "private": false,
   "dependencies": {
     "autoprefixer": "7.1.1",
     "babel-core": "6.25.0",
